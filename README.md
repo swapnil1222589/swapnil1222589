@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Swapnil 👋
 
-<!--
-**swapnil1222589/swapnil1222589** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍💻 About Me
+I am a Python developer and student interested in Open Source and Google Summer of Code (GSoC).
 
-Here are some ideas to get you started:
+## 🚀 Skills
+- Python
+- HTML
+- CSS
+- JavaScript
+- Git & GitHub
+- LLM
+- Gen Ai
+- Dsa in C++
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Projects
+- Student Management System (Python CLI project)
+- Password Manager (Python + JSON)
+- Expense Tracker (Python CSV project)
+
+## 🎯 Goal
+To become a GSoC contributor and software developer.
+
+## 📫 Contact
+GitHub: https://github.com/swapnil1222589
+linkedin: https://www.linkedin.com/in/swapnil-ghuge-1355752a5/
