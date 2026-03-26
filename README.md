@@ -4,14 +4,14 @@
 I am a Python developer and student interested in Open Source and Google Summer of Code (GSoC).
 
 ## 🚀 Skills
-- Python
-- HTML
-- CSS
-- JavaScript
-- Git & GitHub
-- LLM
-- Gen Ai
-- Dsa in C++
+Python
+HTML
+CSS
+JavaScript
+SQL
+Git & GitHub
+Data Structures & Algorithms
+AI/ML Basics
 
 ## 📂 Projects
 - Student Management System (Python CLI project)
