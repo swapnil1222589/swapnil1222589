@@ -17,6 +17,7 @@ AI/ML Basics
 - Student Management System (Python CLI project)
 - Password Manager (Python + JSON)
 - Expense Tracker (Python CSV project)
+- trading_bot
 
 ## 🎯 Goal
 To become a GSoC contributor and software developer.
