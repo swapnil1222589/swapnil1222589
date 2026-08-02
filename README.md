@@ -23,5 +23,5 @@ AI/ML Basics
 To become a GSoC contributor and software developer.
 
 ## 📫 Contact
-GitHub: https://github.com/swapnil1222589
+
 linkedin: https://www.linkedin.com/in/swapnil-ghuge-1355752a5/
