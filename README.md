@@ -9,6 +9,8 @@ HTML
 CSS
 JavaScript
 SQL
+C++
+LLM
 Git & GitHub
 Data Structures & Algorithms
 AI/ML Basics
