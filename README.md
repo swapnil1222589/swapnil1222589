@@ -20,6 +20,10 @@ AI/ML Basics
 - Password Manager (Python + JSON)
 - Expense Tracker (Python CSV project)
 - trading_bot
+- Fake-News-Detector-Project-in-AI
+- edusphere
+- ai-interview-simulator
+- 
 
 ## 🎯 Goal
 To become a GSoC contributor and software developer.
