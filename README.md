@@ -23,7 +23,6 @@ AI/ML Basics
 - Fake-News-Detector-Project-in-AI
 - edusphere
 - ai-interview-simulator
-- 
 
 ## 🎯 Goal
 To become a GSoC contributor and software developer.
