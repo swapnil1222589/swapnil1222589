@@ -1,31 +1,278 @@
-<h1 align="center">Hi 👋, I'm Swapnil Ghuge</h1>
-<h3 align="center">🚀 AI/ML & GenAI Developer | Full-Stack Developer | Builder from India</h3>
+# 💫 Hi 👋, I'm Swapnil Ghuge
 
-<p align="left"> <a href="https://twitter.com/https://x.com/swapnil_ghuge_" target="blank"><img src="https://img.shields.io/twitter/follow/https://x.com/swapnil_ghuge_?logo=twitter&style=for-the-badge" alt="https://x.com/swapnil_ghuge_" /></a> </p>
+**A passionate Software Developer || AI/ML & GenAI Enthusiast || Open Source Contributor || Aspiring GSoC Contributor from India 🇮🇳**
 
-- 🔭 I’m currently completed project [CensusSaathi AI](https://github.com/swapnil1222589/census-saathi)
+I'm a student and developer passionate about building practical software and AI-powered applications. I enjoy working with Python, Generative AI, LLMs, RAG systems, agentic workflows, and modern web technologies.
 
-- 🌱 I’m currently learning **Advanced Agentic AI, Multi-Agent Systems, LLM Applications, RAG & AI Engineering**
+* 🔭 **I’m currently working on:** AI-powered applications, GenAI projects, and software development
+* 🌱 **I’m currently learning:** Advanced LLM applications, Agentic AI, Multi-Agent Systems, DSA, and Open Source Development
+* 👯 **I’m looking to collaborate on:** Open Source, AI/ML, GenAI, Python, and innovative software projects
+* 🤔 **I’m looking for help with:** Becoming a strong Open Source contributor and preparing for GSoC
+* 💬 **Ask me about:** Python, AI/ML, LLMs, RAG, LangChain, Agentic AI, Git & GitHub, and software development
+* 📫 **How to reach me:** Connect with me on LinkedIn
+* 😄 **Pronouns:** Swapnil
+* ⚡ **Fun fact:** I love turning ideas into working projects and exploring what AI can build 🚀
 
-- 👨‍💻 All of my projects are available at [https://swapnilghuge.niat.tech/](https://swapnilghuge.niat.tech/)
+---
 
-- 💬 Ask me about **Python, React, JavaScript, AI/ML, GenAI, LangChain, RAG, AI Agents & Full-Stack Development**
+# 🚀 About Me
 
-- 📫 How to reach me **swapnilghuge03782@gmail.com**
+* 👨‍💻 Python developer with a strong interest in **AI/ML & Generative AI**
+* 🤖 Building applications using **LLMs, RAG, LangChain, and Agentic Workflows**
+* 🧠 Practicing **Data Structures & Algorithms using C++**
+* 🌐 Exploring **React.js, REST APIs, MongoDB, and Streamlit**
+* 🔍 Interested in **Open Source and GSoC**
+* 🛠️ Enjoy building projects that solve practical problems
+* 📚 Always learning new technologies and improving my development skills
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1lzsioBGwHpIMeSmLr9ZgJNUnAmr0DPec/view?usp=sharing](https://drive.google.com/file/d/1lzsioBGwHpIMeSmLr9ZgJNUnAmr0DPec/view?usp=sharing)
+---
 
-- ⚡ Fun fact **I think I'm funny. My code doesn't always agree. 😄**
+# 🚀 Featured Projects
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/https://x.com/swapnil_ghuge_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://x.com/swapnil_ghuge_" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/swapnil-ghuge-1355752a5/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/swapnil-ghuge-1355752a5/" height="30" width="40" /></a>
-</p>
+### 🤖 AI Interview Simulator
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://backbonejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/backbonejs/backbonejs-original-wordmark.svg" alt="backbonejs" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://canvasjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.electronjs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://zapier.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a> </p>
+An AI-powered platform designed to simulate interview experiences and help users practice technical and behavioral interviews.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=swapnil1222589&show_icons=true&locale=en&layout=compact" alt="swapnil1222589" /></p>
+**Focus:** AI • LLMs • Interview Preparation
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=swapnil1222589&show_icons=true&locale=en" alt="swapnil1222589" /></p>
+---
+
+### 📰 Fake News Detector
+
+An AI/ML project focused on detecting potentially fake or misleading news using machine learning techniques.
+
+**Focus:** Python • Machine Learning • NLP
+
+---
+
+### 🌐 EduSphere
+
+An education-focused application designed to provide useful learning resources and an improved learning experience.
+
+**Focus:** Web Development • Education • Technology
+
+---
+
+### 🤖 Trading Bot
+
+An automated trading project exploring algorithmic approaches and programmatic decision-making.
+
+**Focus:** Python • Automation • Trading
+
+---
+
+### 🎓 Student Management System
+
+A Python-based CLI application for managing student-related information.
+
+**Focus:** Python • CLI • Data Management
+
+---
+
+### 🔐 Password Manager
+
+A lightweight password management application built using Python and JSON for storing and managing credentials.
+
+**Focus:** Python • JSON • Security
+
+---
+
+### 💰 Expense Tracker
+
+A Python-based expense tracking application using CSV for storing and managing financial records.
+
+**Focus:** Python • CSV • Data Management
+
+---
+
+# 💻 Tech Stack & Skills
+
+## 👨‍💻 Languages
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge\&logo=python\&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+
+**Languages:**
+Python • JavaScript • C++ (DSA) • SQL • HTML • CSS
+
+---
+
+# 🤖 AI/ML & Generative AI
+
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge\&logo=langchain\&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge\&logo=huggingface\&logoColor=black)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge)
+
+### 🧠 Core AI/GenAI
+
+* LLMs
+* LangChain (LCEL)
+* RAG
+* FAISS
+* Vector Databases
+* Agentic Workflows
+* Multi-Agent Systems
+* Prompt Engineering
+* HuggingFace Transformers
+* Pandas
+* NumPy
+
+### 🔌 AI APIs & Tools
+
+* Groq API
+* OpenAI API
+* Claude API
+* Gemini API
+* LangSmith
+
+---
+
+# 🌐 Web & Frameworks
+
+![React](https://img.shields.io/badge/React.js-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge\&logo=mongodb\&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge\&logo=streamlit\&logoColor=white)
+
+**Web & Frameworks:**
+
+* React.js
+* REST APIs
+* MongoDB
+* DBMS
+* Streamlit
+
+---
+
+# 🛠️ Development & Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)
+![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge\&logo=kaggle\&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge\&logo=n8n\&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge\&logo=vercel\&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge\&logo=netlify\&logoColor=white)
+
+**Tools & Platforms:**
+
+Git • GitHub • VS Code • Kaggle • Postman • n8n • Vercel • Netlify
+
+---
+
+# 🧠 Core Computer Science
+
+* Data Structures & Algorithms
+* Object-Oriented Programming
+* DBMS
+* SQL
+* REST APIs
+* Problem Solving
+* Software Development
+* Git & Version Control
+
+---
+
+# 🎯 My Goals
+
+* 🚀 Become a strong Software Developer
+* 🤖 Build impactful AI/ML & GenAI applications
+* 🌎 Contribute to Open Source
+* 💻 Get selected as a **Google Summer of Code (GSoC) Contributor**
+* 🧠 Strengthen Data Structures & Algorithms
+* 🌐 Build scalable full-stack applications
+* 🤝 Collaborate with developers and open-source communities
+
+---
+
+# 📊 GitHub Stats
+
+<div align="center">
+
+![](https://github-readme-stats.vercel.app/api?username=swapnil1222589\&theme=dark\&hide_border=false\&include_all_commits=true\&count_private=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=swapnil1222589\&theme=dark\&hide_border=false\&include_all_commits=true\&count_private=true\&layout=compact)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=swapnil1222589\&theme=dark\&hide_border=false)
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+![](https://github-profile-trophy.vercel.app/?username=swapnil1222589\&theme=radical\&no-frame=false\&no-bg=false\&margin-w=4)
+
+</div>
+
+---
+
+# 📈 GitHub Activity
+
+<div align="center">
+
+[![Swapnil's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=swapnil1222589\&theme=github-dark)](https://github.com/swapnil1222589)
+
+</div>
+
+---
+
+# 🌐 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/swapnil-ghuge-1355752a5/)
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/swapnil1222589)
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+
+</div>
+
+---
+
+# ✍️ Random Dev Quote
+
+<div align="center">
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal\&theme=radical)
+
+</div>
+
+---
+
+# 💡 Developer Mindset
+
+<div align="center">
+
+### Learn → Build → Break → Fix → Improve → Contribute 🚀
+
+**Building with code, learning with every project, and contributing to the Open Source community.**
+
+</div>
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+**Let's build something awesome together! 🚀**
+
+</div>
