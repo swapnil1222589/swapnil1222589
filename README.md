@@ -9,7 +9,7 @@ I'm a student and developer passionate about building practical software and AI-
 * 👯 **I’m looking to collaborate on:** Open Source, AI/ML, GenAI, Python, and innovative software projects
 * 🤔 **I’m looking for help with:** Becoming a strong Open Source contributor and preparing for GSoC
 * 💬 **Ask me about:** Python, AI/ML, LLMs, RAG, LangChain, Agentic AI, Git & GitHub, and software development
-* 📫 **How to reach me:** Connect with me on LinkedIn
+* 📫 **How to reach me:** Connect with me on LinkedIn or email
 * 😄 **Pronouns:** Swapnil
 * ⚡ **Fun fact:** I love turning ideas into working projects and exploring what AI can build 🚀
 
@@ -232,7 +232,7 @@ Git • GitHub • VS Code • Kaggle • Postman • n8n • Vercel • Netlify
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/swapnil-ghuge-1355752a5/)
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/swapnil1222589)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:swapnilghuge03782@gmail.com)
 
 </div>
 
