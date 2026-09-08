@@ -97,6 +97,7 @@ A Python-based expense tracking application using CSV for storing and managing f
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
 
 **Languages:**
+
 Python • JavaScript • C++ (DSA) • SQL • HTML • CSS
 
 ---
@@ -232,16 +233,6 @@ Git • GitHub • VS Code • Kaggle • Postman • n8n • Vercel • Netlify
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/swapnil-ghuge-1355752a5/)
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/swapnil1222589)
-
-</div>
-
----
-
-# 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 
 </div>
 
