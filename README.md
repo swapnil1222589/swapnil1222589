@@ -7,7 +7,7 @@
 # 💫 Hi 👋, I'm Swapnil Ghuge
 
 <a href="https://github.com/swapnil1222589">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Software+Developer+%F0%9F%92%BB;AI%2FML+%26+GenAI+Enthusiast+%F0%9F%A4%96;Open+Source+Contributor+%F0%9F%8C%8D;Aspiring+GSoC+Contributor+%F0%9F%9A%80;Building+AI-Powered+Applications+%F0%9F%A4%96;Learn+%E2%86%92+Build+%E2%86%92+Contribute+%F0%9F%9A%80" alt="Typing Animation">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2000&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Software+Developer+%F0%9F%92%BB;AI%2FML+%26+GenAI+Enthusiast+%F0%9F%A4%96;Open+Source+Contributor+%F0%9F%8C%8D;Aspiring+GSoC+Contributor+%F0%9F%9A%80;Building+AI-Powered+Applications+%F0%9F%A4%96;Learn+%E2%86%92+Build+%E2%86%92+Contribute+%F0%9F%9A%80" alt="Typing Animation">
 </a>
 
 <br>
