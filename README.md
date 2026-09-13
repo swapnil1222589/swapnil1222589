@@ -19,23 +19,13 @@
  
 ## 🚀 About Me
  
-```python
-class Swapnil:
-    def __init__(self):
-        self.name = "Swapnil Ghuge"
-        self.role = "AI/ML & GenAI Developer | React.js"
-        self.location = "Pune, Maharashtra, India"
-        self.education = "B.Tech CS (Data Science)"
-        self.focus = ["LLMs", "RAG", "LangChain", "Agentic Workflows", "React.js"]
-        self.currently_building = "Technovax — an early-stage Generative AI startup"
-        self.goal = "Get selected as a GSoC Contributor"
- 
-    def say_hi(self):
-        print("Thanks for stopping by — let's build something awesome!")
- 
-me = Swapnil()
-me.say_hi()
-```
+| | |
+|---|---|
+| 🎓 **Education** | B.Tech in Computer Science (Data Science) — NIAT × Ajeenkya D Y Patil University, Pune |
+| 📍 **Location** | Pune, Maharashtra, India |
+| 💼 **Currently Building** | Co-Founder at **Technovax** — an early-stage Generative AI startup |
+| 🧭 **Focus Areas** | LLMs • RAG • LangChain • Agentic Workflows • React.js |
+| 🎯 **Current Goal** | Get selected as a **Google Summer of Code (GSoC)** Contributor |
  
 - 👨‍💻 Python developer with a strong interest in **AI/ML & Generative AI**
 - 🤖 Building applications using **LLMs, RAG, LangChain, and Agentic Workflows**
