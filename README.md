@@ -115,12 +115,32 @@ React.js • REST APIs • MongoDB • DBMS • Streamlit
 ## 📊 GitHub Stats
  
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=swapnil1222589&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=swapnil1222589&layout=compact&theme=radical&hide_border=true&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=swapnil1222589&show_icons=true&theme=radical&hide_border=true&include_all_commits=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=swapnil1222589&layout=compact&theme=radical&hide_border=true&include_all_commits=true"/>
 </p>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=swapnil1222589&theme=radical&hide_border=true" alt="streak stats"/>
 </p>
+## 🏆 GitHub Trophies
+ 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=swapnil1222589&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" />
+</p>
+## 📈 Contribution Activity
+ 
+<p align="center">
+  <a href="https://github.com/swapnil1222589">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=swapnil1222589&theme=redical&hide_border=true&area=true" alt="Swapnil's GitHub Activity Graph"/>
+  </a>
+</p>
+### 🐍 Contribution Snake (animated)
+ 
+> To enable the animated snake graph below, add the [`platane/snk`](https://github.com/Platane/snk) GitHub Action to this repo (`.github/workflows/snake.yml`) — it generates and commits the animated SVG automatically on a schedule.
+ 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/swapnil1222589/swapnil1222589/output/github-contribution-grid-snake-dark.svg" alt="snake animation" width="100%"/>
+</p>
+---
  
 ## 🌐 Connect With Me
  
