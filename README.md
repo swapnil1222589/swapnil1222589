@@ -12,8 +12,7 @@
   <a href="https://www.linkedin.com/in/swapnil-ghuge-1355752a5/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:swapnilghuge03782@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
----
- 
+
 ## 🚀 About Me
  
 | | |
@@ -31,7 +30,7 @@
 - 🌐 Exploring **React.js, REST APIs, MongoDB, and Streamlit**
 - 🔍 Interested in **Open Source and GSoC**
 - 📚 Always learning new technologies and improving my development skills
----
+
  
 ## 🚀 Featured Projects
  
@@ -45,7 +44,7 @@
 | 🔐 **Password Manager** | A lightweight password management app built with Python and JSON for securely storing credentials. | `Python` `JSON` `Security` |
 | 💰 **Expense Tracker** | A Python-based expense tracking application using CSV for storing and managing financial records. | `Python` `CSV` `Data Management` |
  
----
+
  
 ## 💻 Tech Stack & Skills
  
@@ -92,9 +91,7 @@ React.js • REST APIs • MongoDB • DBMS • Streamlit
 [![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://www.netlify.com/)
  
 **Core Computer Science:** Data Structures & Algorithms • Object-Oriented Programming • DBMS • SQL • REST APIs • Problem Solving • Software Development • Git & Version Control
- 
----
- 
+  
 ## 🎯 My Goals
  
 | Goal | Status |
@@ -107,8 +104,6 @@ React.js • REST APIs • MongoDB • DBMS • Streamlit
 | 🌐 Build scalable full-stack applications | 🟢 In progress |
 | 🤝 Collaborate with developers & open-source communities | 🟡 Getting started |
  
----
- 
 ## 📊 GitHub Stats
  
 <p align="center">
@@ -118,8 +113,6 @@ React.js • REST APIs • MongoDB • DBMS • Streamlit
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=swapnil1222589&theme=radical&hide_border=true" alt="streak stats"/>
 </p>
-
----
  
 ## 🌐 Connect With Me
  
@@ -132,7 +125,6 @@ React.js • REST APIs • MongoDB • DBMS • Streamlit
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
 </p>
----
  
 ### 💡 Learn → Build → Break → Fix → Improve → Contribute 🚀
  
