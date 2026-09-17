@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:58A6FF&height=250&section=header&text=Swapnil%20Ghuge&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%2FML%20%7C%20GenAI%20%7C%20Full%20Stack%20Developer&descAlignY=55&descSize=20" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:58A6FF&height=250&section=header&text=Swapnil%20Ghuge&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%2FML%20%7C%20GenAI%20%7C%20Full%20Stack%20Developer&descAlignY=55&descSize=20" width="100%"> 
 </p>
 <p align="center">
   <a href="https://github.com/swapnil1222589">  
