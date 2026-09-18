@@ -20,7 +20,7 @@
 | 🎓 **Education** | B.Tech in Computer Science (Data Science) — NIAT × Ajeenkya D Y Patil University, Pune |
 | 📍 **Location** | Pune, Maharashtra, India |
 | 💼 **Currently Building** | Co-Founder at **Technovax** — an early-stage Generative AI startup |
-| 🧭 **Focus Areas** | LLMs • RAG • LangChain • Agentic Workflows • React.js |
+| 🧭 **Focus Areas** | LLMs • RAG • LangChain • Agentic Workflows • React.js • App development |
 | 🎯 **Current Goal** | Get selected as a **Google Summer of Code (GSoC)** Contributor |
  
 - 👨‍💻 Python developer with a strong interest in **AI/ML & Generative AI**
