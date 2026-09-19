@@ -69,7 +69,7 @@
  
 **Core AI/GenAI:** LLMs • LangChain (LCEL) • RAG • FAISS • Vector Databases • Agentic Workflows • Multi-Agent Systems • Prompt Engineering • HuggingFace Transformers
  
-**AI APIs & Tools:** Groq API • OpenAI API • Claude API • Gemini API • LangSmith
+**AI APIs & Tools:** Groq API • OpenAI API • Claude API • Gemini API • LangSmith 
  
 **Web & Frameworks**
  
