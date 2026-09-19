@@ -35,7 +35,7 @@
 ## 🚀 Featured Projects
  
 | Project | Description | Focus |
-|---|---|---|
+|---|---|---| 
 | 🤖 **AI Interview Simulator** | An AI-powered platform that simulates real interview experiences to help users practice technical and behavioral rounds. | `AI` `LLMs` `Interview Prep` |
 | 📰 **Fake News Detector** | An AI/ML project focused on detecting potentially fake or misleading news using NLP and machine learning techniques. | `Python` `Machine Learning` `NLP` |
 | 🌐 **EduSphere** | An education-focused web application built to provide useful learning resources and an improved learning experience. | `Web Dev` `Education` `Technology` |
