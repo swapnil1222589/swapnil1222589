@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:58A6FF&height=250&section=header&text=Swapnil%20Ghuge&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%2FML%20%7C%20GenAI%20%7C%20Full%20Stack%20Developer&descAlignY=55&descSize=20" width="100%"> 
 </p>
-<p align="center">      
+<p align="center">                       
   <a href="https://github.com/swapnil1222589">     
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Software+Developer+%F0%9F%92%BB;AI%2FML+%26+GenAI+Enthusiast+%F0%9F%A4%96;Open+Source+Contributor+%F0%9F%8C%8D;Aspiring+GSoC+Contributor+%F0%9F%9A%80;Building+AI-Powered+Applications+%E2%9A%A1;Learn+%E2%86%92+Build+%E2%86%92+Contribute+%F0%9F%9A%80" alt="Typing Animation">
   </a>
