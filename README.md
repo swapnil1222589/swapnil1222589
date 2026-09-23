@@ -29,7 +29,7 @@
 - 🧠 Practicing **Data Structures & Algorithms using C++**
 - 🌐 Exploring **React.js, REST APIs, MongoDB, and Streamlit**
 - 🔍 Interested in **Open Source and GSoC**
-- 📚 Always learning new technologies and improving my development skills
+- 📚 Always learning new technologies and improving my development skills           
 
  
 ## 🚀 Featured Projects
