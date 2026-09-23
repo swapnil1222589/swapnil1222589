@@ -33,7 +33,7 @@
 
  
 ## 🚀 Featured Projects
- 
+     
 | Project | Description | Focus |
 |---|---|---| 
 | 🤖 **AI Interview Simulator** | An AI-powered platform that simulates real interview experiences to help users practice technical and behavioral rounds. | `AI` `LLMs` `Interview Prep` |
