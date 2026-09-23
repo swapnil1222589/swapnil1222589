@@ -93,7 +93,7 @@ React.js • REST APIs • MongoDB • DBMS • Streamlit
 **Core Computer Science:** Data Structures & Algorithms • Object-Oriented Programming • DBMS • SQL • REST APIs • Problem Solving • Software Development • Git & Version Control
   
 ## 🎯 My Goals
- 
+     
 | Goal | Status |
 |---|---|
 | 🚀 Become a strong Software Developer | 🟢 In progress |
