@@ -135,3 +135,4 @@ React.js • REST APIs • MongoDB • DBMS • Streamlit
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,100:0F2027&height=100&section=footer" width="100%">
 </p>
+                                      
