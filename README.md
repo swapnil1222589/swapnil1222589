@@ -22,7 +22,7 @@
 | 💼 **Currently Building** | Co-Founder at **Technovax** — an early-stage Generative AI startup |
 | 🧭 **Focus Areas** | LLMs • RAG • LangChain • Agentic Workflows • React.js • App development |
 | 🎯 **Current Goal** | Get selected as a **Google Summer of Code (GSoC)** Contributor |
- 
+           
 - 👨‍💻 Python developer with a strong interest in **AI/ML & Generative AI**
 - 🤖 Building applications using **LLMs, RAG, LangChain, and Agentic Workflows**
 - 🚀 **Co-Founder at Technovax** — an early-stage Generative AI startup
@@ -30,7 +30,7 @@
 - 🌐 Exploring **React.js, REST APIs, MongoDB, and Streamlit**
 - 🔍 Interested in **Open Source and GSoC**
 - 📚 Always learning new technologies and improving my development skills           
-
+    
  
 ## 🚀 Featured Projects
      
@@ -91,7 +91,7 @@ React.js • REST APIs • MongoDB • DBMS • Streamlit
 [![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://www.netlify.com/)
  
 **Core Computer Science:** Data Structures & Algorithms • Object-Oriented Programming • DBMS • SQL • REST APIs • Problem Solving • Software Development • Git & Version Control
-  
+                 
 ## 🎯 My Goals
      
 | Goal | Status |
@@ -120,7 +120,7 @@ React.js • REST APIs • MongoDB • DBMS • Streamlit
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:swapnilghuge03782@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/swapnil1222589)
  
-## ✍️ Random Dev Quote
+## ✍️ Random Dev Quote             
  
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
