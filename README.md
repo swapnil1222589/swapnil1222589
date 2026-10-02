@@ -128,7 +128,7 @@ React.js • REST APIs • MongoDB • DBMS • Streamlit
  
 ### 💡 Learn → Build → Break → Fix → Improve → Contribute 🚀
  
-**Building with code, learning with every project, and contributing to the Open Source community.**
+**Building with code, learning with every project, and contributing to the Open Source community.**            
  
 ⭐ **Thanks for visiting my profile — let's build something awesome together!**
  
