@@ -130,7 +130,7 @@ React.js • REST APIs • MongoDB • DBMS • Streamlit
  
 **Building with code, learning with every project, and contributing to the Open Source community.**            
  
-⭐ **Thanks for visiting my profile — let's build something awesome together!**
+⭐ **Thanks for visiting my profile — let's build something awesome together!**        
  
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,100:0F2027&height=100&section=footer" width="100%">             
