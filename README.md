@@ -1,141 +1,265 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:58A6FF&height=250&section=header&text=Swapnil%20Ghuge&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%2FML%20%7C%20GenAI%20%7C%20Full%20Stack%20Developer&descAlignY=55&descSize=20" width="100%"> 
-</p>       
-<!-- <p align="center">                         
-  <a href="https://github.com/swapnil1222589">       
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Software+Developer+%F0%9F%92%BB;AI%2FML+%26+GenAI+Enthusiast+%F0%9F%A4%96;Open+Source+Contributor+%F0%9F%8C%8D;Aspiring+GSoC+Contributor+%F0%9F%9A%80;Building+AI-  Powered+Applications+%E2%9A%A1;Learn+%E2%86%92+Build+%E2%86%92+Contribute+%F0%9F%9A%80" alt="Typing Animation">
-  </a> -->
-</p>
-        
-<p align="center">
-  <a href="https://github.com/swapnil1222589"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-  <a href="https://www.linkedin.com/in/swapnil-ghuge-1355752a5/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:swapnilghuge03782@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>          
-</p>
-
-## 🚀 About Me                    
- 
-| | |
-|---|---|
-| 🎓 **Education** | B.Tech in Computer Science (Data Science) — NIAT × Ajeenkya D Y Patil University, Pune |
-| 📍 **Location** | Pune, Maharashtra, India |
-| 💼 **Currently Building** | Co-Founder at **Technovax** — an early-stage Generative AI startup |
-| 🧭 **Focus Areas** | LLMs • RAG • LangChain • Agentic Workflows • React.js • App development |
-| 🎯 **Current Goal** | Get selected as a **Google Summer of Code (GSoC)** Contributor |
-           
-- 👨‍💻 Python developer with a strong interest in **AI/ML & Generative AI**
-- 🤖 Building applications using **LLMs, RAG, LangChain, and Agentic Workflows**
-- 🚀 **Co-Founder at Technovax** — an early-stage Generative AI startup
-- 🧠 Practicing **Data Structures & Algorithms using C++**
-- 🌐 Exploring **React.js, REST APIs, MongoDB, and Streamlit**
-- 🔍 Interested in **Open Source and GSoC**
-- 📚 Always learning new technologies and improving my development skills                
-    
- 
-## 🚀 Featured Projects
-     
-| Project | Description | Focus |
-|---|---|---| 
-| 🤖 **AI Interview Simulator** | An AI-powered platform that simulates real interview experiences to help users practice technical and behavioral rounds. | `AI` `LLMs` `Interview Prep` |
-| 📰 **Fake News Detector** | An AI/ML project focused on detecting potentially fake or misleading news using NLP and machine learning techniques. | `Python` `Machine Learning` `NLP` |
-| 🌐 **EduSphere** | An education-focused web application built to provide useful learning resources and an improved learning experience. | `Web Dev` `Education` `Technology` |
-| 🤖 **Trading Bot** | An automated trading project exploring algorithmic approaches and programmatic decision-making. | `Python` `Automation` `Trading` |
-| 🎓 **Student Management System** | A Python-based CLI application for managing student-related information. | `Python` `CLI` `Data Management` |
-| 🔐 **Password Manager** | A lightweight password management app built with Python and JSON for securely storing credentials. | `Python` `JSON` `Security` |
-| 💰 **Expense Tracker** | A Python-based expense tracking application using CSV for storing and managing financial records. | `Python` `CSV` `Data Management` |
- 
-
-    
 ## 💻 Tech Stack & Skills
- 
-**Languages**                                  
- 
+
+### 👨‍💻 Programming Languages
+
 [![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/)
+[![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)](https://isocpp.org/)
+[![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)](https://en.cppreference.com/w/c)
+[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com/)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)](https://isocpp.org/)
-[![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
-[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
- 
-**AI/ML & Generative AI**
- 
-[![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)](https://www.langchain.com/)
-[![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+
+**Core:** Python • C++ • C • Java • JavaScript • TypeScript • SQL
+
+---
+
+### 🧠 Artificial Intelligence & Machine Learning
+
+[![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)](https://pytorch.org/)
+[![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
+[![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
+[![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/)
+[![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)](https://keras.io/)
+[![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv&logoColor=white)](https://opencv.org/)
+
+**AI/ML:**  
+Machine Learning • Deep Learning • Neural Networks • NLP • Computer Vision •
+Supervised Learning • Unsupervised Learning • Feature Engineering • Model Evaluation •
+Data Preprocessing • Classification • Regression • Clustering • Recommendation Systems
+
+---
+
+### 🤖 Generative AI & LLM Engineering
+
+[![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)](https://openai.com/)
+[![Google Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)](https://ai.google.dev/)
+[![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge)](https://www.langchain.com/)
+[![LlamaIndex](https://img.shields.io/badge/LlamaIndex-6B4EFF?style=for-the-badge)](https://www.llamaindex.ai/)
+[![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/)
+
+**Generative AI:**  
+LLMs • Prompt Engineering • RAG • Embeddings • Vector Search •
+Vector Databases • Agentic AI • AI Agents • Multi-Agent Systems •
+Tool Calling • Function Calling • Context Engineering • AI Workflows •
+Fine-Tuning • Transformers • Evaluation • AI Application Development
+
+**AI APIs & Platforms:**  
+OpenAI API • Gemini API • Claude API • Groq API • Hugging Face APIs •
+LangChain • LlamaIndex • LangSmith
+
+---
+
+### 📊 Data Science & Data Engineering
+
 [![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
 [![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/)
-[![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge)](https://github.com/facebookresearch/faiss)
-[![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)](https://openai.com/)
-[![Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)](https://ai.google.dev/)
- 
-**Core AI/GenAI:** LLMs • LangChain (LCEL) • RAG • FAISS • Vector Databases • Agentic Workflows • Multi-Agent Systems • Prompt Engineering • HuggingFace Transformers
- 
-**AI APIs & Tools:** Groq API • OpenAI API • Claude API • Gemini API • LangSmith 
- 
-**Web & Frameworks**
- 
-[![React](https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://react.dev/)
+[![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)](https://spark.apache.org/)
+[![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)](https://jupyter.org/)
+
+**Data:**  
+NumPy • Pandas • Matplotlib • Seaborn • Jupyter • Data Cleaning •
+EDA • Statistical Analysis • Data Visualization • ETL • Data Processing •
+Feature Engineering
+
+---
+
+### 🗄️ Databases & Data Storage
+
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
 [![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
-[![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://streamlit.io/)
- 
-React.js • REST APIs • MongoDB • DBMS • Streamlit
- 
-**Development & Tools**
- 
+[![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)](https://redis.io/)
+[![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)](https://www.sqlite.org/)
+[![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)](https://firebase.google.com/)
+
+**Databases:**  
+PostgreSQL • MySQL • MongoDB • Redis • SQLite • Firebase • DynamoDB
+
+**Database Concepts:**  
+SQL • NoSQL • Database Design • Normalization • Indexing • Transactions •
+Joins • Query Optimization • ACID • CAP Theorem • Database Modeling
+
+---
+
+### 🌐 Frontend Development
+
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://react.dev/)
+[![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org/)
+[![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
+
+**Frontend:**  
+HTML5 • CSS3 • JavaScript • TypeScript • React.js • Next.js •
+Tailwind CSS • Responsive Design • Accessibility • UI/UX • Web Performance
+
+---
+
+### ⚙️ Backend & API Development
+
+[![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
+[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
+[![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/)
+[![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)](https://www.djangoproject.com/)
+
+**Backend:**  
+FastAPI • Node.js • Express.js • Django • REST APIs • API Design •
+Authentication • Authorization • JWT • OAuth • WebSockets •
+Microservices • Backend Architecture
+
+---
+
+### ☁️ Cloud & DevOps
+
+[![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
+[![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)](https://cloud.google.com/)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
+[![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)](https://github.com/features/actions)
+[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/)
+
+**Cloud:**  
+AWS • Google Cloud • Cloud Run • EC2 • S3 • Lambda • DynamoDB •
+CloudWatch • IAM • API Gateway • Firebase
+
+**DevOps:**  
+Docker • CI/CD • GitHub Actions • Linux • Bash • Environment Management •
+Cloud Deployment • Monitoring • Logging
+
+---
+
+### 🧩 Software Engineering
+
+**Software Development:**  
+Object-Oriented Programming • Data Structures & Algorithms •
+Design Patterns • SOLID Principles • Clean Code • Modular Architecture •
+API Design • System Design • Scalability • Performance Optimization •
+Debugging • Code Review • Documentation
+
+**Computer Science Fundamentals:**  
+Operating Systems • DBMS • Computer Networks • Computer Architecture •
+Compiler Basics • Distributed Systems • Algorithms • Data Structures
+
+**DSA:**  
+Arrays • Strings • Linked Lists • Stacks • Queues • Hashing •
+Trees • Graphs • Heaps • Recursion • Dynamic Programming •
+Greedy Algorithms • Sorting • Searching • Graph Algorithms •
+Time & Space Complexity
+
+---
+
+### 🧪 Testing & Quality
+
+[![Pytest](https://img.shields.io/badge/PyTest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)](https://pytest.org/)
+[![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com/)
+
+Unit Testing • Integration Testing • API Testing • Test Automation •
+PyTest • Postman • Debugging • Code Quality • Static Analysis
+
+---
+
+### 🔧 Developer Tools
+
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
 [![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com/)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/)
 [![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com/)
 [![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)](https://n8n.io/)
 [![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/)
-[![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://www.netlify.com/)
- 
-**Core Computer Science:** Data Structures & Algorithms • Object-Oriented Programming • DBMS • SQL • REST APIs • Problem Solving • Software Development • Git & Version Control
-                 
-## 🎯 My Goals
-     
+
+Git • GitHub • GitHub Actions • VS Code • Postman • npm • pip •
+Vercel • Netlify • Streamlit • n8n • Jupyter • Linux Terminal
+
+---
+
+### 🔐 Security
+
+Authentication • Authorization • JWT • OAuth 2.0 • API Security •
+Password Hashing • Environment Variables • Secrets Management •
+Secure API Development • OWASP Fundamentals
+
+---
+
+### 🚀 AI Engineering & Automation
+
+AI Agents • Agentic Workflows • RAG Pipelines • AI Chatbots •
+AI Automation • Workflow Automation • n8n • Function Calling •
+Tool Integration • LLM Applications • AI-powered SaaS •
+Multi-Agent Architecture
+
+---
+
+## 🧠 Engineering Principles
+
+```text
+Clean Code
+├── Readability
+├── Maintainability
+├── Modularity
+└── Reusability
+
+Software Engineering
+├── DSA
+├── OOP
+├── Design Patterns
+├── System Design
+├── Testing
+└── Debugging
+
+AI Engineering
+├── Machine Learning
+├── Deep Learning
+├── LLMs
+├── RAG
+├── AI Agents
+├── Vector Search
+└── AI Applications
+
+Cloud & Backend
+├── REST APIs
+├── Databases
+├── AWS
+├── Google Cloud
+├── Docker
+└── CI/CD
+```
+
+## 🎯 Career Goals
+
 | Goal | Status |
 |---|---|
-| 🚀 Become a strong Software Developer | 🟢 In progress |
-| 🤖 Build impactful AI/ML & GenAI applications | 🟢 In progress |
-| 🌎 Contribute to Open Source | 🟡 Getting started |
-| 💻 Get selected as a Google Summer of Code (GSoC) Contributor | 🟡 Aspiring |
-| 🧠 Strengthen Data Structures & Algorithms | 🟢 In progress |
+| 🚀 Become a strong Software Engineer | 🟢 In progress |
+| 🤖 Build production-ready AI/ML & GenAI applications | 🟢 In progress |
+| 🧠 Master DSA & Problem Solving | 🟢 In progress |
 | 🌐 Build scalable full-stack applications | 🟢 In progress |
-| 🤝 Collaborate with developers & open-source communities | 🟡 Getting started |
- 
-## 📊 GitHub Stats
- 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=swapnil1222589&show_icons=true&theme=radical&hide_border=true&include_all_commits=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=swapnil1222589&layout=compact&theme=radical&hide_border=true&include_all_commits=true"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=swapnil1222589&theme=radical&hide_border=true" alt="streak stats"/>
-</p>
- 
-## 🌐 Connect With Me
- 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/swapnil-ghuge-1355752a5/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:swapnilghuge03782@gmail.com)       
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/swapnil1222589)
- 
-## ✍️ Random Dev Quote             
- 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
-</p>
- 
-### 💡 Learn → Build → Break → Fix → Improve → Contribute 🚀
- 
-**Building with code, learning with every project, and contributing to the Open Source community.**            
- 
-⭐ **Thanks for visiting my profile — let's build something awesome together!**        
- 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,100:0F2027&height=100&section=footer" width="100%">             
-</p>
-                                      
+| ☁️ Develop strong Cloud & Backend engineering skills | 🟢 In progress |
+| 🌍 Contribute to major Open Source projects | 🟡 Getting started |
+| 🏆 Contribute to Google Summer of Code (GSoC) | 🟡 Aspiring |
+| 💻 Prepare for Software Engineering roles at Google | 🟡 In progress |
+| 🤝 Collaborate with global developer communities | 🟡 Getting started |
 
+## 🏆 Open Source & Competitive Programming
 
+- 🌍 Open Source Contributor
+- 🐙 GitHub Projects & Contributions
+- 🚀 GSoC Preparation
+- 🧩 Data Structures & Algorithms
+- 💻 Competitive Programming
+- 🛠️ Building production-oriented projects
+- 🤝 Hackathons & Developer Communities
 
+## 💼 Target Roles
+
+**Software Engineer • Software Development Engineer • AI/ML Engineer •
+Generative AI Engineer • Machine Learning Engineer • Backend Engineer •
+Full Stack Developer • AI Engineer • Cloud Engineer • Data Engineer**
+
+### 🎯 Long-Term Target
+
+> **Build strong Computer Science fundamentals → Master Software Engineering → Build scalable systems → Contribute to Open Source → Build impactful AI products → Prepare for top-tier Software Engineering opportunities.**
+
+### ⚡ My Developer Philosophy
+
+```text
+Learn → Build → Test → Break → Debug → Improve → Ship → Contribute 🚀
+```
