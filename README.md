@@ -396,51 +396,17 @@ Cloud & Backend
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats
 
 <p align="center">
-  <img
-    height="180em"
-    src="https://github-readme-stats.vercel.app/api?username=swapnil1222589&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true"
-  />
-
-  <img
-    height="180em"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=swapnil1222589&layout=compact&theme=radical&hide_border=true&include_all_commits=true&langs_count=10"
-  />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=swapnil1222589&show_icons=true&theme=radical&hide_border=true&include_all_commits=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=swapnil1222589&layout=compact&theme=radical&hide_border=true&include_all_commits=true"/>
 </p>
 
 <p align="center">
-
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=swapnil1222589&layout=donut&theme=radical&hide_border=true&langs_count=10"
-  />
-
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=swapnil1222589&theme=radical&hide_border=true" alt="GitHub Streak"/>
 </p>
 
-### 🧠 AI / LLM Engineering
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/AI%2FML-Expertise-8E75B2?style=for-the-badge&logo=google-gemini&logoColor=white">
-
-<img src="https://img.shields.io/badge/LLMs-Engineering-412991?style=for-the-badge&logo=openai&logoColor=white">
-
-<img src="https://img.shields.io/badge/RAG-Applications-FF6F00?style=for-the-badge">
-
-<img src="https://img.shields.io/badge/AI%20Agents-Agentic%20AI-6B4EFF?style=for-the-badge">
-
-<img src="https://img.shields.io/badge/LangChain-LLM%20Apps-1C3C3C?style=for-the-badge">
-
-<img src="https://img.shields.io/badge/HuggingFace-Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black">
-
-</p>
-
-**AI/LLM:**  
-LLMs • Generative AI • RAG • AI Agents • Agentic Workflows •
-Prompt Engineering • Embeddings • Vector Databases •
-Function Calling • Tool Calling • Multi-Agent Systems •
-LLM Applications • AI Automation
 ---
 
 # 🌐 Connect With Me
