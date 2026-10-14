@@ -212,7 +212,7 @@ Monitoring • Logging • Environment Management
 ### 🏗️ Software Development
 
 <p>
-<img src="https://img.shields.io/badge/OOP-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
+<img src="https://img.shields.io/badge/OOP-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">  
 <img src="https://img.shields.io/badge/DSA-FF6F00?style=for-the-badge">
 <img src="https://img.shields.io/badge/System%20Design-4285F4?style=for-the-badge">
 <img src="https://img.shields.io/badge/REST%20API-009688?style=for-the-badge">
