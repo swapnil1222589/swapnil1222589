@@ -98,7 +98,7 @@ Recommendation Systems
 <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge">
 <img src="https://img.shields.io/badge/LlamaIndex-6B4EFF?style=for-the-badge">
 <img src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge">
-<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black">
+<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black">  
 </p>
 
 **GenAI Skills**
