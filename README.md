@@ -84,7 +84,7 @@
 
 Machine Learning • Deep Learning • Neural Networks • NLP • Computer Vision •
 Supervised Learning • Unsupervised Learning • Classification • Regression •
-Clustering • Feature Engineering • Model Evaluation • Data Preprocessing •
+Clustering • Feature Engineering • Model Evaluation • Data Preprocessing •  
 Recommendation Systems
 
 ---
