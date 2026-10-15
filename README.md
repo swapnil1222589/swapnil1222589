@@ -14,36 +14,47 @@
   </a>
 </p>
 
-🚀 About Me
-	
-🎓 Education	B.Tech in Computer Science (Data Science) — NIAT × Ajeenkya D Y Patil University, Pune
-📍 Location	Pune, Maharashtra, India
-💼 Currently Building	Technovax — AI & Software Solutions
-🧭 Focus Areas	Software Engineering • AI/ML • GenAI • Backend • Full Stack • Cloud
-🎯 Career Focus	Software Engineering • AI Engineering • Open Source
+---
 
+## 🚀 About Me
 
-- 👨‍💻 Python developer focused on Software Engineering, AI/ML & Generative AI
-- 🤖 Building applications using LLMs, RAG, AI Agents and Agentic Workflows
-- 🚀 Working on real-world software and AI products at Technovax
-- 🧠 Practicing Data Structures & Algorithms using C++
-- 🌐 Building full-stack and backend applications
-- ☁️ Exploring AWS, Google Cloud, Docker and CI/CD
-- 🔍 Interested in Open Source, GSoC and large-scale software engineering
-- 📚 Continuously improving Computer Science fundamentals and engineering practices
-🚀 Featured Projects
-Project	Description	Focus
-🤖 AI Interview Simulator	AI-powered platform that simulates technical and behavioral interviews.	AI LLMs GenAI
-📰 Fake News Detector	Machine learning application for detecting potentially misleading news using NLP.	Python ML NLP
-🌐 EduSphere	Education-focused web application providing learning resources and digital tools.	React Web Dev
-🤖 Trading Bot	Automated trading project exploring algorithmic decision-making.	Python Automation
-🎓 Student Management System	CLI application for managing student information.	Python CLI
-🔐 Password Manager	Password management application using Python and JSON.	Python Security
-💰 Expense Tracker	Expense management application using Python and CSV.	Python Data
+| | |
+|---|---|
+| 🎓 **Education** | B.Tech in Computer Science (Data Science) — NIAT × Ajeenkya D Y Patil University, Pune |
+| 📍 **Location** | Pune, Maharashtra, India |
+| 💼 **Currently Building** | Technovax — AI & Software Solutions |
+| 🧭 **Focus Areas** | Software Engineering • AI/ML • GenAI • Backend • Full Stack • Cloud |
+| 🎯 **Career Focus** | Software Engineering • AI Engineering • Open Source |
 
+- 👨‍💻 Python developer focused on **Software Engineering, AI/ML & Generative AI**
+- 🤖 Building applications using **LLMs, RAG, AI Agents and Agentic Workflows**
+- 🚀 Working on real-world software and AI products at **Technovax**
+- 🧠 Practicing **Data Structures & Algorithms using C++**
+- 🌐 Building **full-stack and backend applications**
+- ☁️ Exploring **AWS, Google Cloud, Docker and CI/CD**
+- 🔍 Interested in **Open Source, GSoC and large-scale software engineering**
+- 📚 Continuously improving **Computer Science fundamentals and engineering practices**  
 
-💻 Tech Stack & Skills
-👨‍💻 Programming Languages
+---
+
+# 🚀 Featured Projects
+
+| Project | Description | Focus |
+|---|---|---|
+| 🤖 **AI Interview Simulator** | AI-powered platform that simulates technical and behavioral interviews. | `AI` `LLMs` `GenAI` | 
+| 📰 **Fake News Detector** | Machine learning application for detecting potentially misleading news using NLP. | `Python` `ML` `NLP` |
+| 🌐 **EduSphere** | Education-focused web application providing learning resources and digital tools. | `React` `Web Dev` |
+| 🤖 **Trading Bot** | Automated trading project exploring algorithmic decision-making. | `Python` `Automation` |
+| 🎓 **Student Management System** | CLI application for managing student information. | `Python` `CLI` |
+| 🔐 **Password Manager** | Password management application using Python and JSON. | `Python` `Security` |
+| 💰 **Expense Tracker** | Expense management application using Python and CSV. | `Python` `Data` |
+
+---
+
+# 💻 Tech Stack & Skills
+
+## 👨‍💻 Programming Languages
+
 <p>
 <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"> 
@@ -54,8 +65,12 @@ Project	Description	Focus
 <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white">
 </p>
 
-Programming: Python • C++ • C • Java • JavaScript • TypeScript • SQL
-🤖 Artificial Intelligence & Machine Learning
+**Programming:** Python • C++ • C • Java • JavaScript • TypeScript • SQL
+
+---
+
+# 🤖 Artificial Intelligence & Machine Learning 
+
 <p>
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
@@ -65,12 +80,17 @@ Programming: Python • C++ • C • Java • JavaScript • TypeScript • SQL
 <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"> 
 </p>
 
-Machine Learning
+**Machine Learning**
+
 Machine Learning • Deep Learning • Neural Networks • NLP • Computer Vision •
 Supervised Learning • Unsupervised Learning • Classification • Regression •
-Clustering • Feature Engineering • Model Evaluation • Data Preprocessing •
+Clustering • Feature Engineering • Model Evaluation • Data Preprocessing •  
 Recommendation Systems
-🧠 Generative AI & LLM Engineering
+
+---
+
+# 🧠 Generative AI & LLM Engineering
+
 <p>
 <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white">
 <img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white">
@@ -81,15 +101,22 @@ Recommendation Systems
 <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black">  
 </p>
 
-GenAI Skills
+**GenAI Skills**
+
 LLMs • Prompt Engineering • RAG • Embeddings • Vector Search •
 Vector Databases • AI Agents • Agentic AI • Multi-Agent Systems •
 Function Calling • Tool Calling • Context Engineering • AI Workflows •
 Fine-Tuning • Transformers • LLM Evaluation
-AI APIs & Frameworks
+
+**AI APIs & Frameworks**
+
 OpenAI API • Gemini API • Claude API • Groq API • Hugging Face •
 LangChain • LlamaIndex • LangSmith
-📊 Data Science & Data Engineering
+
+---
+
+# 📊 Data Science & Data Engineering
+
 <p>
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white">
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
@@ -100,7 +127,11 @@ LangChain • LlamaIndex • LangSmith
 
 Data Analysis • EDA • Data Cleaning • Data Visualization • Statistics •
 ETL • Data Processing • Feature Engineering • Data Pipelines
-🗄️ Databases
+
+---
+
+# 🗄️ Databases
+
 <p>
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
@@ -111,10 +142,15 @@ ETL • Data Processing • Feature Engineering • Data Pipelines
 <img src="https://img.shields.io/badge/AWS%20DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white">
 </p>
 
-Database Concepts
+**Database Concepts**
+
 SQL • NoSQL • Database Design • Normalization • Indexing • Transactions •
 Joins • Query Optimization • ACID • CAP Theorem • Data Modeling
-🌐 Frontend Development
+
+---
+
+# 🌐 Frontend Development
+
 <p>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
@@ -127,7 +163,11 @@ Joins • Query Optimization • ACID • CAP Theorem • Data Modeling
 
 Responsive Design • UI/UX • Accessibility • Web Performance •
 Component Architecture • State Management • API Integration
-⚙️ Backend & API Development
+
+---
+
+# ⚙️ Backend & API Development
+
 <p>
 <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white">
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white">
@@ -137,7 +177,11 @@ Component Architecture • State Management • API Integration
 
 REST APIs • API Design • Authentication • Authorization • JWT • OAuth 2.0 •
 WebSockets • Backend Architecture • Microservices • API Security
-☁️ Cloud & DevOps
+
+---
+
+# ☁️ Cloud & DevOps
+
 <p>
 <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">
 <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white">
@@ -146,17 +190,27 @@ WebSockets • Backend Architecture • Microservices • API Security
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
 </p>
 
-AWS
+**AWS**
+
 EC2 • S3 • Lambda • DynamoDB • CloudWatch • IAM • API Gateway •
 AWS Amplify • AWS CLI
-Google Cloud
+
+**Google Cloud**
+
 Cloud Run • Compute Engine • Cloud Storage • BigQuery • Firebase •
 Google Cloud APIs
-DevOps
+
+**DevOps**
+
 Docker • CI/CD • GitHub Actions • Linux • Bash • Deployment •
 Monitoring • Logging • Environment Management
-💻 Software Engineering
-🏗️ Software Development
+
+---
+
+# 💻 Software Engineering
+
+### 🏗️ Software Development
+
 <p>
 <img src="https://img.shields.io/badge/OOP-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">  
 <img src="https://img.shields.io/badge/DSA-FF6F00?style=for-the-badge">
@@ -169,7 +223,11 @@ Object-Oriented Programming • Data Structures & Algorithms •
 Design Patterns • SOLID Principles • Clean Code • Modular Architecture •
 API Design • System Design • Scalability • Performance Optimization •
 Debugging • Code Review • Documentation
-🧠 Computer Science Fundamentals
+
+---
+
+### 🧠 Computer Science Fundamentals
+
 <p>
 <img src="https://img.shields.io/badge/Operating%20Systems-557C94?style=for-the-badge&logo=linux&logoColor=white">
 <img src="https://img.shields.io/badge/DBMS-4479A1?style=for-the-badge&logo=postgresql&logoColor=white">
@@ -179,7 +237,11 @@ Debugging • Code Review • Documentation
 
 Operating Systems • DBMS • Computer Networks • Computer Architecture •
 Compiler Basics • Distributed Systems • Algorithms • Data Structures
-🧩 Data Structures & Algorithms
+
+---
+
+### 🧩 Data Structures & Algorithms
+
 <p>
 <img src="https://img.shields.io/badge/Arrays-00599C?style=for-the-badge">
 <img src="https://img.shields.io/badge/Trees-6DB33F?style=for-the-badge">
@@ -191,7 +253,11 @@ Compiler Basics • Distributed Systems • Algorithms • Data Structures
 Arrays • Strings • Linked Lists • Stacks • Queues • Hashing • Trees •
 Graphs • Heaps • Recursion • Dynamic Programming • Greedy Algorithms •
 Sorting • Searching • Graph Algorithms • Time & Space Complexity
-🔐 Security
+
+---
+
+# 🔐 Security
+
 <p>
 <img src="https://img.shields.io/badge/OAuth-3C5A99?style=for-the-badge">
 <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge">
@@ -203,7 +269,11 @@ Sorting • Searching • Graph Algorithms • Time & Space Complexity
 Authentication • Authorization • JWT • OAuth 2.0 • API Security •
 Password Hashing • Environment Variables • Secrets Management •
 Secure API Development • OWASP Fundamentals
-🚀 AI Engineering & Automation
+
+---
+
+# 🚀 AI Engineering & Automation
+
 <p>
 <img src="https://img.shields.io/badge/AI%20Agents-8E75B2?style=for-the-badge">
 <img src="https://img.shields.io/badge/Agentic%20AI-412991?style=for-the-badge">
@@ -217,7 +287,11 @@ AI Agents • Agentic Workflows • RAG Pipelines • AI Chatbots •
 AI Automation • Workflow Automation • n8n • Function Calling •
 Tool Integration • LLM Applications • AI-powered SaaS •
 Multi-Agent Architecture
-🧪 Testing & Quality Engineering
+
+---
+
+# 🧪 Testing & Quality Engineering
+
 <p>
 <img src="https://img.shields.io/badge/PyTest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white">
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
@@ -227,7 +301,11 @@ Multi-Agent Architecture
 
 Unit Testing • Integration Testing • API Testing • Test Automation •
 PyTest • Postman • Jest • Debugging • Code Quality • Static Analysis
-🛠️ Developer Tools
+
+---
+
+# 🛠️ Developer Tools
+
 <p>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
@@ -242,7 +320,12 @@ PyTest • Postman • Jest • Debugging • Code Quality • Static Analysis
 
 Git • GitHub • GitHub Actions • VS Code • Postman • npm • pip •
 Vercel • Netlify • Streamlit • n8n • Jupyter • Linux Terminal
-🧠 Engineering Principles
+
+---
+
+# 🧠 Engineering Principles
+
+```text
 Software Engineering
 ├── Clean Code
 ├── SOLID Principles
@@ -280,27 +363,28 @@ Cloud & Backend
 ├── Docker
 ├── CI/CD
 └── Scalable Architecture
-🎯 Career Goals
-Goal	Status
-🚀 Become a strong Software Engineer	🟢 In progress
-🤖 Build production-ready AI/ML & GenAI applications	🟢 In progress
-🧠 Master DSA & Problem Solving	🟢 In progress
-🌐 Build scalable full-stack applications	🟢 In progress
-☁️ Strengthen Cloud & Backend Engineering	🟢 In progress
-🌍 Contribute to major Open Source projects	🟢 First PR merged — Kestra
-🏆 Contribute to Google Summer of Code (GSoC)	🟡 Aspiring
-💻 Prepare for top-tier Software Engineering opportunities	🟡 In progress
-🤝 Collaborate with global developer communities	🟡 Getting started
+```
 
+---
 
-🏆 Open Source & Developer Journey
-<p align="center">
-  <a href="https://kestra.io/community?from=github-badge">
-    <img src="https://img.shields.io/badge/1st%20PR%20MERGED-KESTRA-1F232C?style=for-the-badge&logo=github&logoColor=200062&labelColor=CDC5FF" alt="First PR merged in Kestra">
-  </a>
-</p>
+# 🎯 Career Goals
 
-- ✅ First PR merged: kestra-io/kestra #20835 — Added unit tests for hasQuotedSegment and lastSegmentKey in the topology YAML path utilities.
+| Goal | Status |
+|---|---|
+| 🚀 Become a strong Software Engineer | 🟢 In progress |
+| 🤖 Build production-ready AI/ML & GenAI applications | 🟢 In progress |
+| 🧠 Master DSA & Problem Solving | 🟢 In progress |
+| 🌐 Build scalable full-stack applications | 🟢 In progress |
+| ☁️ Strengthen Cloud & Backend Engineering | 🟢 In progress |
+| 🌍 Contribute to major Open Source projects | 🟡 Getting started |
+| 🏆 Contribute to Google Summer of Code (GSoC) | 🟡 Aspiring |
+| 💻 Prepare for top-tier Software Engineering opportunities | 🟡 In progress |
+| 🤝 Collaborate with global developer communities | 🟡 Getting started |
+
+---
+
+# 🏆 Open Source & Developer Journey
+
 - 🌍 Open Source Contributor
 - 🐙 GitHub Projects & Contributions
 - 🚀 GSoC Preparation
@@ -309,7 +393,11 @@ Goal	Status
 - 🛠️ Building production-oriented projects
 - 🤝 Hackathons & Developer Communities
 - 🌐 Learning from real-world open-source codebases
-📊 GitHub Stats
+
+---
+
+# 📊 GitHub Stats
+
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=swapnil1222589&show_icons=true&theme=radical&hide_border=true&include_all_commits=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=swapnil1222589&layout=compact&theme=radical&hide_border=true&include_all_commits=true"/>
@@ -319,7 +407,10 @@ Goal	Status
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=swapnil1222589&theme=radical&hide_border=true" alt="GitHub Streak"/>
 </p>
 
-🌐 Connect With Me
+---
+
+# 🌐 Connect With Me
+
 <p align="center">
 
 <a href="https://github.com/swapnil1222589">
@@ -336,14 +427,22 @@ Goal	Status
 
 </p>
 
-✍️ Random Dev Quote
+---
+
+# ✍️ Random Dev Quote
+
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
 </p>
 
-💡 Learn → Build → Break → Fix → Improve → Contribute 🚀
-Building with code, learning through real-world projects, and contributing to the Open Source community.
-⭐ Thanks for visiting my profile — let's build something awesome together!
+---
+
+### 💡 Learn → Build → Break → Fix → Improve → Contribute 🚀
+
+**Building with code, learning through real-world projects, and contributing to the Open Source community.**
+
+⭐ **Thanks for visiting my profile — let's build something awesome together!**
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,100:0F2027&height=100&section=footer" width="100%">
 </p>
