@@ -1,8 +1,7 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:58A6FF&height=250&section=header&text=Swapnil%20Ghuge&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%2FML%20%7C%20GenAI%20%7C%20Software%20Engineer&descAlignY=55&descSize=20" width="100%">
 </p>
-### Open Source Contributions
-[![Contributor](https://img.shields.io/badge/1st%20PR%20MERGED-KESTRA-1F232C?style=for-the-badge&logo=github&logoColor=200062&labelColor=CDC5FF)](https://github.com/search?q=org:kestra-io+author:swapnil1222589+is:pr+is:merged&type=pullrequests)
+
 
 <p align="center">
   <a href="https://github.com/swapnil1222589">
