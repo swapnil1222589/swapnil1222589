@@ -55,7 +55,7 @@
 
 [![1st PR MERGED - KESTRA](https://img.shields.io/badge/1st%20PR%20MERGED-KESTRA-1F232C?style=for-the-badge&logo=github&logoColor=200062&labelColor=CDC5FF)](https://kestra.io/community?from=github-badge)
 
-🎉 My first merged PR: [Kestra #20835 — Add unit tests for YAML path helpers](https://github.com/kestra-io/kestra/pull/20835)
+🎉 My first merged PR: [Kestra #20835 — Add unit tests for YAML path helpers](https://github.com/kestra-io/kestra/pull/20835) 
 
 # 💻 Tech Stack & Skills
 
