@@ -42,7 +42,7 @@
 
 | Project | Description | Focus |
 |---|---|---|
-| 🤖 **AI Interview Simulator** | AI-powered platform that simulates technical and behavioral interviews. | `AI` `LLMs` `GenAI` | 
+| 🤖 **AI Interview Simulator** | AI-powered platform that simulates technical and behavioral interviews. | `AI` `LLMs` `GenAI` |   
 | 📰 **Fake News Detector** | Machine learning application for detecting potentially misleading news using NLP. | `Python` `ML` `NLP` |
 | 🌐 **EduSphere** | Education-focused web application providing learning resources and digital tools. | `React` `Web Dev` |
 | 🤖 **Trading Bot** | Automated trading project exploring algorithmic decision-making. | `Python` `Automation` |
