@@ -25,7 +25,7 @@
 | 📍 **Location** | Pune, Maharashtra, India |
 | 💼 **Currently Building** | Technovax — AI & Software Solutions |
 | 🧭 **Focus Areas** | Software Engineering • AI/ML • GenAI • Backend • Full Stack • Cloud |
-| 🎯 **Career Focus** | Software Engineering • AI Engineering • Open Source |
+| 🎯 **Career Focus** | LLMs • AI Engineering • Open Source |
 
 - 👨‍💻 Python developer focused on **Software Engineering, AI/ML & Generative AI**
 - 🤖 Building applications using **LLMs, RAG, AI Agents and Agentic Workflows**
