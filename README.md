@@ -31,7 +31,7 @@
 - 🤖 Building applications using **LLMs, RAG, AI Agents and Agentic Workflows**
 - 🚀 Working on real-world software and AI products at **Technovax**
 - 🧠 Practicing **Data Structures & Algorithms using C++**
-- 🌐 Building **full-stack and backend applications**
+- 🌐 Building **full-stack and backend applications, Ai**
 - ☁️ Exploring **AWS, Google Cloud, Docker and CI/CD**
 - 🔍 Interested in **Open Source, GSoC and large-scale software engineering**
 - 📚 Continuously improving **Computer Science fundamentals and engineering practices**  
