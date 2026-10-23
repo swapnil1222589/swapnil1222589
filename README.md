@@ -48,7 +48,7 @@
 | 🤖 **Trading Bot** | Automated trading project exploring algorithmic decision-making. | `Python` `Automation` |
 | 🎓 **Student Management System** | CLI application for managing student information. | `Python` `CLI` |
 | 🔐 **Password Manager** | Password management application using Python and JSON. | `Python` `Security` |
-| 💰 **Expense Tracker** | Expense management application using Python and CSV. | `Python` `Data` |
+| 💰 **Expense Tracker** | Expense management application using Python and CSV. | `Python` `Data` | 
 
 ---
 ### 🏅 First Merged Open Source Contribution   
