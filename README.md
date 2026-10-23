@@ -71,7 +71,7 @@
 <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white">
 </p>
 
-**Programming:** Python • C++ • C • Java • JavaScript • TypeScript • SQL
+**Programming:** Python • C++ • C • Java • JavaScript • TypeScript • SQL 
 
 ---
 
