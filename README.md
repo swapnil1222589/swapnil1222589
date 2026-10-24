@@ -51,12 +51,21 @@
 | 💰 **Expense Tracker** | Expense management application using Python and CSV. | `Python` `Data` | 
 
 ---
-### 🏅 First Merged Open Source Contribution   
+## 🏅 Open Source Contributions — 3 Merged PRs
 
-[![1st PR MERGED - KESTRA](https://img.shields.io/badge/1st%20PR%20MERGED-KESTRA-1F232C?style=for-the-badge&logo=github&logoColor=200062&labelColor=CDC5FF)](https://kestra.io/community?from=github-badge)
+<p align="center">
+  <img src="https://img.shields.io/badge/Merged%20PRs-3-brightgreen?style=for-the-badge&logo=github" alt="3 merged pull requests">
+</p>
 
-🎉 My first merged PR: [Kestra #20835 — Add unit tests for YAML path helpers](https://github.com/kestra-io/kestra/pull/20835) 
+I'm actively contributing to open-source projects, including Kotlin/Android code quality and Python testing.
 
+| Repository | Contribution | Pull Request |
+|---|---|---|
+| **Kestra** | Added unit tests for YAML path helpers | [#20835](https://github.com/kestra-io/kestra/pull/20835) |
+| **Commons Android** | Formatted root Kotlin files and `app/build.gradle.kts` with ktlint | [#7095](https://github.com/commons-app/apps-android-commons/pull/7095) |
+| **Commons Android** | Formatted logging, quiz, campaigns, concurrency, delete, and feedback packages with ktlint | [#7101](https://github.com/commons-app/apps-android-commons/pull/7101) |
+
+**Merged PRs:** 3 · **Repositories:** 2
 # 💻 Tech Stack & Skills
 
 ## 👨‍💻 Programming Languages
