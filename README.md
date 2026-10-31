@@ -207,7 +207,7 @@ WebSockets • Backend Architecture • Microservices • API Security
 
 **AWS**
 
-EC2 • S3 • Lambda • DynamoDB • CloudWatch • IAM • API Gateway •
+EC2 • S3 • Lambda • DynamoDB • CloudWatch • IAM • API Gateway • 
 AWS Amplify • AWS CLI
 
 **Google Cloud**
