@@ -292,7 +292,7 @@ Secure API Development • OWASP Fundamentals
 <p>
 <img src="https://img.shields.io/badge/AI%20Agents-8E75B2?style=for-the-badge">
 <img src="https://img.shields.io/badge/Agentic%20AI-412991?style=for-the-badge">
-<img src="https://img.shields.io/badge/RAG-FF6F00?style=for-the-badge">
+<img src="https://img.shields.io/badge/RAG-FF6F00?style=for-the-badge"> 
 <img src="https://img.shields.io/badge/AI%20Chatbots-4285F4?style=for-the-badge">
 <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white">
 <img src="https://img.shields.io/badge/Automation-009688?style=for-the-badge">
