@@ -126,7 +126,7 @@ Fine-Tuning • Transformers • LLM Evaluation
 **AI APIs & Frameworks**
 
 OpenAI API • Gemini API • Claude API • Groq API • Hugging Face •
-LangChain • LlamaIndex • LangSmith
+LangChain • LlamaIndex • LangSmith 
 
 ---
 
