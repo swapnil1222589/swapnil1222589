@@ -34,7 +34,7 @@
 - 🌐 Building **full-stack and backend applications, Ai**
 - ☁️ Exploring **AWS, Google Cloud, Docker and CI/CD**
 - 🔍 Interested in **Open Source, GSoC and large-scale software engineering**
-- 📚 Continuously improving **Computer Science fundamentals and engineering practices**  
+- 📚 Continuously improving **Computer Science fundamentals and engineering practices**   
 
 ---
 
