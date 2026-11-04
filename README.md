@@ -29,7 +29,7 @@
 
 - 👨‍💻 Python developer focused on **Software Engineering, AI/ML & Generative AI**
 - 🤖 Building applications using **LLMs, RAG, AI Agents and Agentic Workflows**
-- 🚀 Working on real-world software and AI products at **Technovax**
+- 🚀 Working on real-world software and AI products at **Technovax** 
 - 🧠 Practicing **Data Structures & Algorithms using C++**
 - 🌐 Building **full-stack and backend applications, Ai**
 - ☁️ Exploring **AWS, Google Cloud, Docker and CI/CD**
