@@ -84,7 +84,7 @@ I'm actively contributing to open-source projects, including Kotlin/Android code
 
 ---
 
-# 🤖 Artificial Intelligence & Machine Learning 
+# 🤖 Artificial Intelligence & Machine Learning  
 
 <p>
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
