@@ -68,7 +68,7 @@ I'm actively contributing to open-source projects, including Kotlin/Android code
 **Merged PRs:** 3 · **Repositories:** 2
 # 💻 Tech Stack & Skills
 
-## 👨‍💻 Programming Languages
+## 👨‍💻 Programming Languages 
 
 <p>
 <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">  
