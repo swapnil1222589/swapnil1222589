@@ -21,7 +21,7 @@
 ## 🚀 About Me   
 
 | | |
-|---|---|
+|---|---| 
 | 🎓 **Education** | B.Tech in Computer Science (Data Science) — NIAT × Ajeenkya D Y Patil University, Pune |
 | 📍 **Location** | Pune, Maharashtra, India |
 | 💼 **Currently Building** | Technovax — AI & Software Solutions |
