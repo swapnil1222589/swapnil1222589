@@ -56,7 +56,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Merged%20PRs-3-brightgreen?style=for-the-badge&logo=github" alt="3 merged pull requests"> 
-</p>
+</p> 
 
 I'm actively contributing to open-source projects, including Kotlin/Android code quality and Python testing.
 
