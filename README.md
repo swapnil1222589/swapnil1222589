@@ -29,7 +29,7 @@
 | 🎯 **Career Focus** | LLMs • AI Engineering • Open Source |
 
 - 👨‍💻 Python developer focused on **Software Engineering, AI/ML & Generative AI**
-- 🤖 Building applications using **LLMs, RAG, AI Agents and Agentic Workflows**
+- 🤖 Building applications using **LLMs, RAG, AI Agents and Agentic Workflows** 
 - 🚀 Working on real-world software and AI products at **Technovax** 
 - 🧠 Practicing **Data Structures & Algorithms using C++**
 - 🌐 Building **full-stack and backend applications, Ai**
