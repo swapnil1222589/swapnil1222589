@@ -19,7 +19,7 @@
 ---
 
 ## 🚀 About Me   
-
+ 
 | | |
 |---|---| 
 | 🎓 **Education** | B.Tech in Computer Science (Data Science) — NIAT × Ajeenkya D Y Patil University, Pune | 
