@@ -37,7 +37,7 @@
 - 🔍 Interested in **Open Source, GSoC and large-scale software engineering**
 - 📚 Continuously improving **Computer Science fundamentals and engineering practices**    
 
----
+--- 
 
 # 🚀 Featured Projects  
 
