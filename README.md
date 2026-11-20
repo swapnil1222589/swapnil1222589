@@ -25,7 +25,7 @@
 | 🎓 **Education** | B.Tech in Computer Science (Data Science) — NIAT × Ajeenkya D Y Patil University, Pune |
 | 📍 **Location** | Pune, Maharashtra, India |
 | 💼 **Currently Building** | Technovax — AI & Software Solutions | 
-| 🧭 **Focus Areas** | Software Engineering • AI/ML • GenAI • Backend • Full Stack • Cloud |
+| 🧭 **Focus Areas** | Software Engineering • AI/ML • GenAI • Backend • Full Stack • Cloud | 
 | 🎯 **Career Focus** | LLMs • AI Engineering • Open Source |
 
 - 👨‍💻 Python developer focused on **Software Engineering, AI/ML & Generative AI**
