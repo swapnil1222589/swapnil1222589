@@ -47,7 +47,7 @@
 | 📰 **Fake News Detector** | Machine learning application for detecting potentially misleading news using NLP. | `Python` `ML` `NLP` |
 | 🌐 **EduSphere** | Education-focused web application providing learning resources and digital tools. | `React` `Web Dev` |
 | 🤖 **Trading Bot** | Automated trading project exploring algorithmic decision-making. | `Python` `Automation` |
-| 🎓 **Student Management System** | CLI application for managing student information. | `Python` `CLI` |
+| 🎓 **Student Management System** | CLI application for managing student information. | `Python` `CLI` | 
 | 🔐 **Password Manager** | Password management application using Python and JSON. | `Python` `Security` |
 | 💰 **Expense Tracker** | Expense management application using Python and CSV. | `Python` `Data` |  
 
