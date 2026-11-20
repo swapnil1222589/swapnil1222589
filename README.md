@@ -52,7 +52,7 @@
 | 💰 **Expense Tracker** | Expense management application using Python and CSV. | `Python` `Data` |   
 
 ---
-## 🏅 Open Source Contributions — 3 Merged PRs
+## 🏅 Open Source Contributions — 3 Merged PRs 
 
 <p align="center">
   <img src="https://img.shields.io/badge/Merged%20PRs-3-brightgreen?style=for-the-badge&logo=github" alt="3 merged pull requests"> 
